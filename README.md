@@ -12,3 +12,6 @@ Next on the list was something to graph the prometheus data with. I started play
 Let us agree that you can download this as-is and as you wish, without guarantees, but that if you make improvements, I will be happy to hear them from you.
 
 Thank you!
+
+A screenshot to show how the dashboard looks like
+[Mailcow screenshot](mailcow-dashboard.png)
