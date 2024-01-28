@@ -14,4 +14,4 @@ Let us agree that you can download this as-is and as you wish, without guarantee
 Thank you!
 
 A screenshot to show how the dashboard looks like
-[Mailcow screenshot](mailcow-dashboard.png)
+![Mailcow screenshot](./mailcow-dashboard.png)
